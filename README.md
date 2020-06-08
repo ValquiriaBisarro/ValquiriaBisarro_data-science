@@ -12,6 +12,7 @@ Portfólio pessoal de projetos desenvolvidos na área de Data Science.
 As a Master in Economics, I developed analytical skills refined for the most diverse situations. By combining my knowledge with the skills of Data Science I intend to contribute by developing relevant projects and analyzes.
 
 **Background in:** Econometry, Statistical analysis, Stata.
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/valquiria-bisarro-loureiro)
 
